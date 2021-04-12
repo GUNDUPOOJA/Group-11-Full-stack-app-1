@@ -39,6 +39,11 @@ A location based gaming app that helps the user to find the treasure location. F
 - ORM: PostgreSQL
 - Coding standards: Prettier/ESlint
 
+## Working app screenshots 
+- when the user clicks on the second color component without selecting a location.
+- <img src = "https://github.com/KHARIKA17/Group-11-Full-stack-app/blob/main/public/images/location.png" width= "450" height="300" />
+- when the user is inside a target location
+- <img src = "https://github.com/KHARIKA17/Group-11-Full-stack-app/blob/main/public/images/app_1.jpeg" width ="450" height="300" />
 ## CI/CD
 
 -Auto-deploying from our main repo.
